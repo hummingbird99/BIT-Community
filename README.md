@@ -11,7 +11,7 @@
 ---|---
 김혜준 | Back-end
 김채린 | Front-end, Back-end
-최 준 | Front-end, Backe-end
+최 준 | Front-end, Back-end
 
 <br></br>
 
