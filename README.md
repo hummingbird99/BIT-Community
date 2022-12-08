@@ -20,7 +20,7 @@
 * 게시판 및 댓글 구현 - Spring MVC Framework
 * 모달 창 구현 - Bootstrap
 * 모바일, 태블릿, PC 크기에 따른 반응형 렌더링 구현
-* Oracle DB 관리 - CRUD 쿼리문 작성
+* RDMS 소프트웨어를 사용한 데이터 관리 - Oracle DB
 <br></br><br></br>
 
 ## 🎯메뉴 플로우차트
